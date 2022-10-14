@@ -1,6 +1,6 @@
 import * as alt from 'alt-server';
-import { AgendaSystem } from '../../../server/systems/agenda';
-import { PluginSystem } from '../../../server/systems/plugins';
+import { AgendaSystem } from '@AthenaServer/systems/agenda';
+import { PluginSystem } from '@AthenaServer/systems/plugins';
 import { ATHENA_EXAMPLE_AGENDA } from '../shared/enums';
 
 const PLUGIN_NAME = 'Agenda - Athena Logo Example';
